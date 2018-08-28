@@ -5,3 +5,7 @@ Perl is a backronym = Practical Extraction and Report Language or Pathologically
 Perl with capital refers to the language, perl with lowercase to the interpreter.
 
 CPAN - Comprehensive Perl Archive Network
+
+Perl is a "free-form" language, whitespaces are insignificant.
+
+See perldoc perlstyle for styleguides (recommendations).
